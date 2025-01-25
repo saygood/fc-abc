@@ -20,3 +20,6 @@ If you use any of their assets, please cite the corresponding papers appropriate
 ## Citation 
 if you find our work useful in your research, please cite our paper:
 ****
+
+## Thanks 
+The all authors in https://github.com/lmbxmu/ABCPruner.
