@@ -22,4 +22,4 @@ if you find our work useful in your research, please cite our paper:
 ****
 
 ## Thanks 
-The all authors in https://github.com/lmbxmu/ABCPruner.
+All authors of ABCPruner. Url:https://github.com/lmbxmu/ABCPruner.
